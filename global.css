@@ -1,0 +1,27 @@
+*, *::before, *::after{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    font-size: 100%;
+}
+li{
+    list-style-type: none;
+}
+a{
+    text-decoration: none;
+    color: inherit;
+    &:viseted{
+        color: inherit;
+    }
+}
+input{
+    border: none;
+    outline: none;
+}
+.row{
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+}
