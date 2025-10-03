@@ -15,6 +15,6 @@ makes use of css transform for rotation.translation, and scaling of elements.
 
 <ul>
   <li>
-    <a href=" https://yasamanmrz.github.io/slight--twist/">Demo online</a>
+    <a href=" https://yasamanmrz.github.io/slight--twist">Demo online</a>
   </li>
 </ul>
